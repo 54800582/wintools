@@ -20,3 +20,13 @@
 
  2024/07/16
  ProcMon.exe -- 进程/线程活动监视器；网课防摸鱼神器：通过阻塞应用运行来防止网课期间玩游戏、聊天等分心行为
+
+ 2024/07/30
+ MemoryCleaner.exe -- v1.2 fix bug:
+ 1. 当工具以 /boot （登录windows时自动启动）方式运行时直接隐藏窗口
+ 2. 修复 TOPMOST（置顶）无效的Bug；窗口上按 Enter键 自动关闭的Bug
+
+ ProcMon.exe -- v1.2 fix bug:
+ 1. 窗口上按 Enter键 自动关闭的Bug
+
+ CoreInfo.exe -- Coreinfo is a MFC utility that shows you the mapping between logical processors and the physical processor, NUMA node, and socket on which they reside, as well as the cache’s assigned to each logical processor. 
