@@ -30,3 +30,7 @@
  1. 窗口上按 Enter键 自动关闭的Bug
 
  CoreInfo.exe -- Coreinfo is a MFC utility that shows you the mapping between logical processors and the physical processor, NUMA node, and socket on which they reside, as well as the cache’s assigned to each logical processor. 
+
+ 2024/7/31
+ MemoryCleaner.exe -- v1.3, 集成Sysinternals CacheSet功能，CacheSet is an applet that allows you to manipulate the working-set parameters of the system file cache。
+ 
