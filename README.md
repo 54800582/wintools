@@ -34,3 +34,5 @@
  2024/7/31
  MemoryCleaner.exe -- v1.3, 集成Sysinternals CacheSet功能，CacheSet is an applet that allows you to manipulate the working-set parameters of the system file cache。
  
+ 2024/08/07
+ Handlexp.exe -- v1.0 Handlexp is a MFC utility that displays information about open handles for any process in the system. You can use it to see the programs that have a file open, or to see the object types and names of all the handles of a program.
