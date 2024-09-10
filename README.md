@@ -36,3 +36,6 @@
  
  2024/08/07
  Handlexp.exe -- v1.0 Handlexp is a MFC utility that displays information about open handles for any process in the system. You can use it to see the programs that have a file open, or to see the object types and names of all the handles of a program.
+
+  2024/09/10
+ BreakTimer -- v1.0 一个中断计时器工具，基于Windows桌面应用程序开发，支持自定义行为，包括多种背景模式、音频播放等
