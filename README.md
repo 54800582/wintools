@@ -14,8 +14,8 @@
  MemoryCleaner.exe -- Memory Cleaner is considerably better because it uses functions built into Windows to judiciously free memory - with no performance impact whatsoever. You can now access Memory Cleaner functions from the tray icon without having to open up the main window. The cleaning prodecures are both silent and the only alert you will see is the amount of RAM recovered briefly displayed in the window. If you find your RAM usage exceeding 60% regularly, then MemoryCleaner is an absolute must have.
 
  2024/06/20
- MemoryCleaner.exe -- v1.1 fix bug：
- 1. 以 “Runas”方式提升权限来支持随windows自启动（登录windows时自动启动）
+ MemoryCleaner.exe -- v1.1 fix bug:
+ 1. 以 “Runas”方式提升权限来支持随windows自启动(登录windows时自动启动)
  2. windows任务栏重建时重建Tray Icon（任务栏/桌面奔溃时重建工具托盘，通过Kill explorer进程来让桌面重启进行测试）
 
  2024/07/16
@@ -39,3 +39,8 @@
 
   2024/09/10
  BreakTimer -- v1.0 一个中断计时器工具，基于Windows桌面应用程序开发，支持自定义行为，包括多种背景模式、音频播放等
+
+ 2024/10/21
+ PoolMon.exe -- v1.1 fix bug:
+ 1. 变量滞后初始化导致异常
+
