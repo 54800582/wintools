@@ -44,3 +44,9 @@
  PoolMon.exe -- v1.1 fix bug:
  1. 变量滞后初始化导致异常
 
+ 2024/10/23
+ SnipIt.exe -- v1.0 Snipping tool, 屏幕截图工具, 仅支持x86-64, Windows11/10下进行了简单的兼容性测试
+ BreakTimer.exe -- v1.1 fix bug:
+ 1. re-build taskbar
+ 2. support background opacity
+
