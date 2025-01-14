@@ -54,3 +54,9 @@
  DrawIt.exe -- v1.0 Screen draw tool, only support x86-64, simple compatibility test was carried out under Windows 11/10
  SnipIt/BreakTimer tools open Options dialog at first run or failed to register hotkey
 
+ 2025/01/02
+ RecordIt.exe -- v1.0 Record video of desktop/window/crop-window, only support x86-64, test in window 10/11
+
+  2025/01/14
+ RecordIt.exe -- v1.1 support to capture audio
+
