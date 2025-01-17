@@ -60,3 +60,7 @@
   2025/01/14
  RecordIt.exe -- v1.1 support to capture audio
 
+ 2025/01/17
+ PoolMon.exe -- v2.0 support Mapped-Driver
+ WinObj.exe -- fix nullptr bug
+
