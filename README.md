@@ -64,3 +64,15 @@
  PoolMon.exe -- v2.0 support Mapped-Driver
  WinObj.exe -- fix nullptr bug
 
+2025/02/11
+RecordIt.exe -- v1.2 support Encoding Quality（Bitrate）
+
+2025/03/18
+SearchStrings.exe -- v1.0 Search for ANSI and Unicode strings in binary images.
+ZoomIt.exe -- v1.0 ZoomIt is a screen zoom tool for technical presentations and demos. 
+DrawIt.exe -- v1.1 bug fixed: 
+1. DC resource leak
+2. not exit draw mode when kill focus
+
+2025/03/21
+LiveZoomIt.exe -- v1.0 LiveZoomIt is a screen live-zoom tool for technical presentations and demos. 
