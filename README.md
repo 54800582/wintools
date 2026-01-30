@@ -76,3 +76,21 @@ DrawIt.exe -- v1.1 bug fixed:
 
 2025/03/21
 LiveZoomIt.exe -- v1.0 LiveZoomIt is a screen live-zoom tool for technical presentations and demos. 
+
+2025/06/11 
+DiskCleaner.exe -- v1.0 存储感知清理工具，定期自动清理指定目录集下的过期文件，以释放存储空间
+
+2025/06/30
+SDelete.exe -- v1.0 文件粉碎器，通过对文件内容所在的存储空间进行覆写和擦除以使数据不可恢复，从而达到安全删除数据。
+
+2025/08/04 
+TCPView.exe -- v1.0  网络终结点查看器，显示系统上所有 TCP 和 UDP 终结点的详细列表，包括本地和远程地址以及 TCP 连接的状态。
+
+2026/01/10
+DsnMon.exe -- v1.0 Dns查询事件监视器，实时接收由Microsoft-Windows-DNS-Client事件提供器的Dns事件。Microsoft-Windows-DNS-Client从Windows 8.1开始才提供DNS Query Event.
+
+2026/01/26
+NetworkMon.exe -- v1.0 网络连接监视器，记录计算机上的 TCP/UDP 连接。 每个连接都通过 ProcessId字段链接到一个进程。 该事件还包含源和目标主机名、 IP 地址、端口号和 IPv6 状态
+
+2026/01/30
+DnsMon.exe -- v2.0 支持底部属性区；导出；规则配置；Whois
