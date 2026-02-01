@@ -94,3 +94,6 @@ NetworkMon.exe -- v1.0 网络连接监视器，记录计算机上的 TCP/UDP 连
 
 2026/01/30
 DnsMon.exe -- v2.0 支持底部属性区；导出；规则配置；Whois
+
+2026/02/01
+NetworkMon.exe -- v1.1 支持导出/排序；规则快速启用/禁用
